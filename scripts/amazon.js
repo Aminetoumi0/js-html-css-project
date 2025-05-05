@@ -14,6 +14,18 @@ const products = [{
     name: 'Adults Plain Cotton T-Shirt - 2 Pack',
     rating: { stars: 4.5, count: 56 },
     priceCents: 799
+}, {
+    image: 'images/products/black-2-slot-toaster.jpg',
+    name: '2-Slot Toaster - Black',
+    rating: { stars: 5.0, count: 2197 },
+    priceCents: 1899
+}, {
+    image: 'images/products/6-piece-white-dinner-plate-set.jpg',
+    name: '6 Piece White Dinner Plate Set',
+    rating: { stars: 4.0, count: 37 },
+    priceCents: 2067
+}, {
+  
 }];
 
 let productHTML = '';
